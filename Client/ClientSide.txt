@@ -1,0 +1,1 @@
+Setup The react vite frontend application here
