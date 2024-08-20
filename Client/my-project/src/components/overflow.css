@@ -1,0 +1,12 @@
+* {
+    overflow-x: hidden;
+  }
+  .bg-bgColor {
+    background-color: #f0f2ff; 
+  }
+  
+
+.inputHolder input:focus, .inputHolder textarea:focus {
+  outline: none; 
+  box-shadow: none; 
+}
